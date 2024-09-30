@@ -1,0 +1,175 @@
+/*-------------------------------------------Font taken from Google------------------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Anek+Gujarati:wght@100..800&family=Pavanam&family=Rasa:ital,wght@0,300..700;1,300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pavanam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=NTR&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&family=Baloo+Bhaina+2:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+/*------------------------------------------Downloaded Font from Google------------------------------------------------*/
+
+@font-face {
+    font-family: kalam;
+    src: url("./fonts/Kalam/Kalam-Regular.ttf");
+}
+@font-face {
+    font-family: arima;
+    src: url("./fonts/Arima/Arima-VariableFont_wght.ttf")
+}
+@font-face {
+    font-family:hubballi ;
+    src: url("./fonts/Hubballi/Hubballi-Regular.ttf");
+}
+
+#hindi{
+    font-family: kalam;
+    font-style: italic;
+}
+#malayalam{
+    font-family: arima;
+    font-weight: 500;
+}
+#kannada{
+    font-family:hubballi ;
+    font-weight: 200;
+    font-size: 1.5rem;
+
+}
+#gujarati{
+    font-family: "Rasa", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+#tamil{
+    font-family: "Pavanam", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#telugu{
+    font-family: "NTR", sans-serif;
+    font-weight: 500;
+  font-style: normal;
+}
+#oriya{
+    font-family: "Baloo Bhaina 2", sans-serif;
+}
+#english{
+    font-family: "Dancing Script", cursive;
+    font-weight: 700;
+    font-size: 1.4rem;
+    
+}
+body{
+    background-color: burlywood;
+    border: 5px groove crimson;
+}
+h1{
+    background-color: bisque;
+    color: blue;
+    font-size: 3rem;
+    border-radius: 10px;
+    text-align: center;
+    text-shadow: 10px 10px 10px black;
+    box-shadow: 10px 10px 10px black;
+}
+img{
+    display: block;
+    margin: 15px;
+}
+
+.gujarat{
+    background-color: khaki;
+    width: 900px;
+    height:200px;
+    border: 5px solid darkviolet;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+.tamilnadu{
+    background-color: lightgreen;
+    width: 900px;
+    height:200px;
+    border: 5px solid green;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+.AP{
+    background-color: aqua;
+    width: 900px;
+    height:200px;
+    border: 5px solid blue;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+.Maharashtra{
+    background-color: lightslategray;
+    width: 900px;
+    height:200px;
+    border: 5px solid darkslategrey;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.2rem;
+}
+.kerala{
+    background-color: greenyellow;
+    width: 900px;
+    height:200px;
+    border: 5px solid rgb(83, 1, 1);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px; 
+
+}
+.odisha{
+    background-color: lightcyan;
+    width: 900px;
+    height:200px;
+    border: 5px solid darkviolet;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;  
+}
+.karnataka{
+    background-color: mediumspringgreen;
+    width: 900px;
+    height:200px;
+    border: 5px solid darkslateblue;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+}
+.goa{
+    background-color: coral;
+    width: 900px;
+    height:200px;
+    border: 5px solid crimson;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+.bengal{
+    background-color: rgb(198, 108, 156);
+    width: 900px;
+    height:200px;
+    border: 5px solid darkmagenta;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.2rem;
+}
+h3{
+    font-size: 1.5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    margin:15px;
+}
+#maindes{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:15px;
+}
